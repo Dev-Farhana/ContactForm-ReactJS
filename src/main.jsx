@@ -7,6 +7,6 @@ import Greet from './Greet.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
-    <Greet/>
+{/*     <Greet/> */}
   </React.StrictMode>,
 )
